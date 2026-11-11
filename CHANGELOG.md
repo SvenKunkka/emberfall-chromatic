@@ -1,5 +1,11 @@
 # Changelog
 
+## Unreleased
+
+### Added
+- Public GitHub Pages browser player with desktop keyboard and on-screen phone controls.
+- Chinese and English online-play links in the README.
+
 ## 1.0.0 — 2026-11-11
 
 ### Added

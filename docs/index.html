@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="description" content="在线试玩《余烬独行》：为 ModRetro Chromatic 制作的像素废土打怪闯关游戏。Play Emberfall: Lone Survivor in your browser." />
+    <meta name="theme-color" content="#101b26" />
+    <title>余烬独行 · Emberfall — 在线试玩</title>
+    <link rel="stylesheet" href="css/style.css" />
+    <link rel="stylesheet" href="css/pages.css" />
+  </head>
+  <body>
+    <header class="masthead">
+      <div class="identity">
+        <h1>余烬独行 <span>Emberfall</span></h1>
+        <p>为 ModRetro Chromatic 制作 · 现在，在浏览器中启程。</p>
+      </div>
+      <nav aria-label="游戏入口">
+        <button id="start-game" type="button" disabled>正在加载…</button>
+        <a href="https://github.com/SvenKunkka/emberfall-chromatic">GitHub / 源码</a>
+      </nav>
+    </header>
+    <main id="game" aria-label="余烬独行游戏画面">
+      <canvas id="mainCanvas" width="160" height="144" tabindex="0" aria-label="游戏画面；Enter 开始，方向键移动，Z 冲刺，X 脉冲">你的浏览器不支持 Canvas。请使用支持 WebAssembly 的现代浏览器。</canvas>
+    </main>
+    <div id="controller" role="group" aria-label="屏幕游戏按键">
+      <div id="controller_dpad" role="group" aria-label="方向键">
+        <button type="button" id="controller_left" aria-label="向左" data-key="ArrowLeft">◀</button>
+        <button type="button" id="controller_right" aria-label="向右" data-key="ArrowRight">▶</button>
+        <button type="button" id="controller_up" aria-label="向上" data-key="ArrowUp">▲</button>
+        <button type="button" id="controller_down" aria-label="向下" data-key="ArrowDown">▼</button>
+      </div>
+      <button type="button" id="controller_select" class="capsuleBtn" data-key="p">Select</button>
+      <button type="button" id="controller_start" class="capsuleBtn" data-key="Enter">Start</button>
+      <button type="button" id="controller_b" class="roundBtn" aria-label="B 范围脉冲" data-key="x">B</button>
+      <button type="button" id="controller_a" class="roundBtn" aria-label="A 冲刺或确认" data-key="z">A</button>
+    </div>
+    <footer class="field-notes">
+      <p class="keyboard-guide"><kbd>↑↓←→</kbd> 移动 · <kbd>Z</kbd> 冲刺 · <kbd>X</kbd> 脉冲 · <kbd>Enter</kbd> 开始 / 暂停 · <kbd>P</kbd> 指南</p>
+      <p class="touch-guide">十字键移动 · A 冲刺 / 确认 · B 脉冲 · Start 开始 / 暂停</p>
+      <p id="player-status" role="status">正在载入废土… Loading game.</p>
+      <p class="release-note">10 关战役 · 2 场首领战 · 自动射击，走位生存。 <a href="https://github.com/SvenKunkka/emberfall-chromatic/releases/latest">下载掌机 ROM</a></p>
+    </footer>
+    <script src="js/binjgb.js"></script>
+    <script src="js/script.js"></script>
+    <script src="js/pages.js"></script>
+  </body>
+</html>

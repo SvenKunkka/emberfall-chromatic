@@ -17,3 +17,6 @@ __pycache__/
 .env.*
 *.pem
 *.key
+
+# The verified ROM is required by the public Pages player.
+!docs/rom/*.gbc

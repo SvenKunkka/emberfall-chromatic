@@ -4,7 +4,7 @@
 
 **An original pixel-art arena survival game built for ModRetro Chromatic, delivered as a native Game Boy Color ROM.**
 
-[中文](#中文说明) · [English](#english) · [下载 / Download](https://github.com/SvenKunkka/emberfall-chromatic/releases/latest)
+[在线试玩 / Play now](https://svenkunkka.github.io/emberfall-chromatic/) · [中文](#中文说明) · [English](#english) · [下载 / Download](https://github.com/SvenKunkka/emberfall-chromatic/releases/latest)
 
 | 开场 / Title | 战斗 / Combat | 通关 / Ending |
 | --- | --- | --- |
@@ -29,6 +29,8 @@
 本项目是面向 Chromatic 的独立游戏，不是 ModRetro 官方产品，也未获 ModRetro 背书。其他 Game Boy Color 兼容设备不在本次实机验证范围内。
 
 ### 下载与开始
+
+**[直接打开在线试玩](https://svenkunkka.github.io/emberfall-chromatic/)**，无需安装。电脑按 Enter 开始，方向键移动，Z 冲刺，X 脉冲；手机使用屏幕上的十字键与 A / B / Start。
 
 到 [Releases](https://github.com/SvenKunkka/emberfall-chromatic/releases/latest) 下载 `Emberfall.gbc`；同时提供源码与验收素材压缩包。它是可供 Chromatic 兼容卡带工作流或 GBC 模拟器使用的游戏 ROM；设备写入请按你的设备与官方工具说明操作。
 
@@ -98,6 +100,8 @@
 This is an independent game for Chromatic, not an official ModRetro product or an endorsement by ModRetro. Other GBC-compatible devices have not received physical-device testing.
 
 ### Download and play
+
+**[Play instantly in your browser](https://svenkunkka.github.io/emberfall-chromatic/)** — no installation needed. Press Enter to start, use arrow keys to move, Z to dash and X for pulse. On phones, use the on-screen D-pad and A / B / Start controls.
 
 Download `Emberfall.gbc` from [Releases](https://github.com/SvenKunkka/emberfall-chromatic/releases/latest) for your Chromatic-compatible cartridge workflow or a GBC emulator. Follow the instructions for your own device and official installation tools.
 
