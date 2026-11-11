@@ -1,0 +1,116 @@
+{
+  "_resourceType": "sprite",
+  "id": "dbe7ad91-27da-5b9b-b275-67f42197f149",
+  "name": "acid",
+  "symbol": "sprite_acid",
+  "states": [
+    {
+      "id": "bdb198d7-ecf1-50f1-9c73-00c97d032660",
+      "name": "",
+      "animationType": "fixed",
+      "flipLeft": false,
+      "animations": [
+        {
+          "id": "88b8a85b-03a1-5d09-9461-797efaf832e1",
+          "frames": [
+            {
+              "id": "5365f0a7-909a-5c77-90aa-308e52d3c601",
+              "tiles": [
+                {
+                  "id": "9f11edb6-5e48-5614-8852-e09a0fedc6ab",
+                  "x": 4,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 2,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "61c259a3-e6c6-5748-b9ec-92fe2f0d22c8",
+          "frames": [
+            {
+              "id": "8e0493a4-ab43-5e2e-bf3c-72695dc26982",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "07bdb728-4661-55a6-a66b-d3c8be9b0065",
+          "frames": [
+            {
+              "id": "10622688-70d9-5353-bb66-feeaef32dbe5",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "e56147c4-beb5-5598-9629-732208ae97f2",
+          "frames": [
+            {
+              "id": "2bc14821-620f-5604-a9f0-c2a0a621a420",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "09d0ff8b-7e47-589e-a89e-feb76e393fd3",
+          "frames": [
+            {
+              "id": "1e31647c-2f04-5a3a-9927-7ad61505b8df",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "2ce49720-dc1a-5dee-8de8-8f43173c5d8d",
+          "frames": [
+            {
+              "id": "50c8b14a-4870-5dd5-ad7c-8708443a7553",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "fe97d5e6-580d-5b00-8110-a19530e8a770",
+          "frames": [
+            {
+              "id": "471e4b5f-87c7-5f22-8153-6dc4f1af19ea",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "8e143903-d5c1-594b-b521-98a9a238bf53",
+          "frames": [
+            {
+              "id": "6f4b380a-406d-54e1-bc5e-968212c800de",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 1,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
+  "canvasWidth": 16,
+  "canvasHeight": 16,
+  "boundsX": 0,
+  "boundsY": -8,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "acid.png",
+  "width": 16,
+  "height": 16,
+  "checksum": "0795845751d8612efdd7b676c89b17b29d51b788"
+}

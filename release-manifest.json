@@ -1,0 +1,50 @@
+{
+  "name": "余烬独行 / Emberfall: Lone Survivor",
+  "version": "1.0",
+  "verified_date": "2026-11-11",
+  "timezone": "Asia/Shanghai",
+  "platform": "Game Boy Color / ModRetro Chromatic",
+  "native_rom": {
+    "path": "build/Emberfall.gbc",
+    "sha256": "cebfa440658451eeb7ee3914fab59bec13180db0afd37f4a5c499150bbdd5209",
+    "bytes": 131072
+  },
+  "web_rom": {
+    "path": "build/web/rom/emberfall---lone-survivor.gbc",
+    "sha256": "6169ff3ea7677fa8b65c70f135beef5bd5c3fc14d91c54f19acf454fdde3379d",
+    "bytes": 131072
+  },
+  "native_acceptance": {
+    "rom_sha256": "cebfa440658451eeb7ee3914fab59bec13180db0afd37f4a5c499150bbdd5209",
+    "run": "active",
+    "input_only": true,
+    "memory_writes": false,
+    "frames": 13536,
+    "victory": true,
+    "defeat_observed": false,
+    "bosses": [
+      5,
+      10
+    ],
+    "sampled_peak_sprites_per_scanline": 10,
+    "overlimit_samples": 0
+  },
+  "web_acceptance": {
+    "rom_sha256": "6169ff3ea7677fa8b65c70f135beef5bd5c3fc14d91c54f19acf454fdde3379d",
+    "run": "active",
+    "input_only": true,
+    "memory_writes": false,
+    "frames": 13536,
+    "victory": true,
+    "defeat_observed": false,
+    "bosses": [
+      5,
+      10
+    ],
+    "sampled_peak_sprites_per_scanline": 10,
+    "overlimit_samples": 0
+  },
+  "physical_hardware_tested": false,
+  "persistent_save": false,
+  "reference_numbers": "Original design; no verified official stage table for the requested reference game was found."
+}

@@ -1,0 +1,19 @@
+# Local builds, captures, saves and temporary exports
+/build/
+/artifacts/
+/captures/
+/save-states/
+*.zip
+*.sav
+*.ram
+*.state
+*.rtc
+*.gbc
+*.gb
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+.env.*
+*.pem
+*.key

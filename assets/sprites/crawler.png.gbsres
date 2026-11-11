@@ -1,0 +1,129 @@
+{
+  "_resourceType": "sprite",
+  "id": "1f8411b8-ad8d-55c9-8289-c9f36fecda04",
+  "name": "crawler",
+  "symbol": "sprite_crawler",
+  "states": [
+    {
+      "id": "8b5f4fc1-b801-51bb-b529-51da6fde7e0f",
+      "name": "",
+      "animationType": "fixed",
+      "flipLeft": false,
+      "animations": [
+        {
+          "id": "0cff3125-2ac9-5302-962a-c80777f034bd",
+          "frames": [
+            {
+              "id": "abf85665-0834-5681-b293-a23c555c2e48",
+              "tiles": [
+                {
+                  "id": "4f0bb30d-6302-5323-b6c5-a16403785930",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 1,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "976d4cd4-9b83-51e3-abc4-892c22a7ac4d",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 8,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 1,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "cd9bb206-f5fb-5fb5-b5ee-7a33a8550da1",
+          "frames": [
+            {
+              "id": "c82179f5-13c7-5a62-a425-23678dbd763f",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "51ea67be-4bce-506e-b423-f788973b874c",
+          "frames": [
+            {
+              "id": "54987129-be22-5662-b77f-003ab5245d4d",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "c4803eef-8561-5870-9c91-2f79ba4adf04",
+          "frames": [
+            {
+              "id": "7c8bb8e8-d344-5b1f-9e0b-4b83df140d2c",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "c11d7055-bccf-54e7-ac7b-196f9200ee55",
+          "frames": [
+            {
+              "id": "8c17a0b4-3726-5999-9b69-ddbf19aae19d",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "af7e2399-7c37-5ba1-94cf-1d73ebc5995d",
+          "frames": [
+            {
+              "id": "b3996c7e-1b98-5f6c-8e60-4acda6ce9705",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "1dbd32b7-2f2c-53b9-9103-64055592103d",
+          "frames": [
+            {
+              "id": "5be45d44-c383-53c7-b436-2deba4ca1a7a",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "10603c9e-2d01-5626-b7f5-1be4e8224d82",
+          "frames": [
+            {
+              "id": "4b5468f9-9cea-59d5-ad53-3853e8266770",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 2,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
+  "canvasWidth": 16,
+  "canvasHeight": 16,
+  "boundsX": 0,
+  "boundsY": -8,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "crawler.png",
+  "width": 16,
+  "height": 16,
+  "checksum": "c729dadd620ab205227f5b133d0626104d0ff966"
+}

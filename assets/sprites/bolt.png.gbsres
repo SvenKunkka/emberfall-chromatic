@@ -1,0 +1,116 @@
+{
+  "_resourceType": "sprite",
+  "id": "23ac73ab-5022-5af9-ae6f-764c97b0987e",
+  "name": "bolt",
+  "symbol": "sprite_bolt",
+  "states": [
+    {
+      "id": "975a3bb1-058b-5e30-ad30-74f7833c5ddd",
+      "name": "",
+      "animationType": "fixed",
+      "flipLeft": false,
+      "animations": [
+        {
+          "id": "c942fa85-f13f-5287-b990-294de01c0e82",
+          "frames": [
+            {
+              "id": "568703b1-58fe-5e74-9726-25532d85d8e7",
+              "tiles": [
+                {
+                  "id": "c1213f32-2494-5dfe-993b-6a33142498d2",
+                  "x": 4,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "df7bf083-2c92-5880-b3e8-a069f43cd7be",
+          "frames": [
+            {
+              "id": "3e6abd96-171c-5d33-b4f7-d24728d903e3",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "31af4030-02a1-5cbb-987d-03b8eea45dde",
+          "frames": [
+            {
+              "id": "9df0a420-7193-5412-b0f5-9d122f982340",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "7df52438-602b-582c-b412-172edbdbbea3",
+          "frames": [
+            {
+              "id": "908d5408-4971-53a3-8c1e-1d4577e902a6",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "676791bb-7d59-5af5-9d32-e44deae6ec6c",
+          "frames": [
+            {
+              "id": "c9a6923d-6c92-5eab-81e8-32e3686645f0",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "9e1e8028-655c-53c6-880c-d31ff9470447",
+          "frames": [
+            {
+              "id": "800c7509-8702-5f81-9624-9156df75cc13",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "0b24ca96-b200-5bfd-aaa7-c0b3b8982e48",
+          "frames": [
+            {
+              "id": "be0812f6-4819-5837-8e17-f4748164c053",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "a8438b77-29c6-5fa2-abbb-a829d07fae74",
+          "frames": [
+            {
+              "id": "b1493f51-3167-5087-8f48-310bf173f52c",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 1,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
+  "canvasWidth": 16,
+  "canvasHeight": 16,
+  "boundsX": 0,
+  "boundsY": -8,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "bolt.png",
+  "width": 16,
+  "height": 16,
+  "checksum": "2ad5bd3cdeb27b05e6b092e545977f5216f9b4be"
+}

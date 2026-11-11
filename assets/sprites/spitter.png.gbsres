@@ -1,0 +1,129 @@
+{
+  "_resourceType": "sprite",
+  "id": "1a49d5b9-dcea-5c77-bb97-52e24a155566",
+  "name": "spitter",
+  "symbol": "sprite_spitter",
+  "states": [
+    {
+      "id": "2d8c9868-c946-569f-b171-c5b9c3bb639d",
+      "name": "",
+      "animationType": "fixed",
+      "flipLeft": false,
+      "animations": [
+        {
+          "id": "b52e7cdc-4a12-53d6-af8c-60a117f6f31b",
+          "frames": [
+            {
+              "id": "3b07a03b-bd4e-5cf5-bb3b-6e13060353c6",
+              "tiles": [
+                {
+                  "id": "90f0711a-2057-5091-936c-cac36401ec10",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 2,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "bd8ff730-fa5a-5e63-ae68-66ff58569cd1",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 8,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 2,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ba95bc9a-3eb2-5bd1-bf0a-ed1bb7e83766",
+          "frames": [
+            {
+              "id": "96390aa6-c8cf-54df-87bc-fa7ed4a51104",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "9c84e706-5bee-531a-bf56-96377e6c2a95",
+          "frames": [
+            {
+              "id": "0b2713fb-1ce5-5270-a119-9096440e0bd3",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "640628cc-49f2-5683-ab50-a2435e9a42b2",
+          "frames": [
+            {
+              "id": "7463c8eb-8c74-5a76-9d53-8a65a75ee34f",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "347372cd-2407-53e2-922e-9b27d57811de",
+          "frames": [
+            {
+              "id": "3f799d5b-0dd0-5444-91ad-152934543e23",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "49dc852d-0f85-5120-889e-af3a15bf7c62",
+          "frames": [
+            {
+              "id": "a9a05e79-5d6a-5378-88e6-5dba9c061c00",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "a40cf352-b0f2-592d-aab8-81f2c41422ce",
+          "frames": [
+            {
+              "id": "1b691976-69c6-520f-9351-248cdccc410f",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "54a44ff6-d2f0-5a2e-aa2b-8515b527ad0d",
+          "frames": [
+            {
+              "id": "5f73d49d-d8ab-5390-b6ca-0aa67379c452",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 2,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
+  "canvasWidth": 16,
+  "canvasHeight": 16,
+  "boundsX": 0,
+  "boundsY": -8,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "spitter.png",
+  "width": 16,
+  "height": 16,
+  "checksum": "93d487009b91ff1d83e2004e0d0e2178cdfdafea"
+}

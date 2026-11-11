@@ -1,0 +1,31 @@
+{
+  "_resourceType": "scene",
+  "id": "12f07015-0a42-504a-8d39-3f689e13ad3a",
+  "_index": 0,
+  "type": "emberfall",
+  "name": "Deadzone // Campaign",
+  "symbol": "scene_start",
+  "x": 0,
+  "y": 0,
+  "width": 20,
+  "height": 18,
+  "backgroundId": "ddddf0c0-2de3-5ecf-a581-181f9e5383bd",
+  "tilesetId": "",
+  "colorModeOverride": "none",
+  "paletteIds": [
+    "01b3a9c4-6d46-58eb-aa44-d09b62ebe9cb",
+    "6e74442f-6325-5a5a-8ed6-89e7f68828cc"
+  ],
+  "spritePaletteIds": [
+    "bee47484-f979-5be4-b8c1-ab4c46cbd406",
+    "184e46e2-908a-5c75-b052-5d2a97878496",
+    "53f63a35-a4d2-525c-b8a5-f6e374cc72f2",
+    "d465eb9e-b13c-5ed6-8a4c-148f4150e8f7"
+  ],
+  "autoFadeSpeed": 1,
+  "script": [],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": [],
+  "collisions": "0f51+0012+0f2+0012+0f2+0012+0f2+0012+0f2+0012+0f2+0012+0f2+0012+0f2+0012+0f2+0012+0f2+0012+0f2+0012+0f2+0012+0f2+0012+0f15+"
+}

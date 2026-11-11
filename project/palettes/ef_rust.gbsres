@@ -1,0 +1,18 @@
+{
+  "_resourceType": "palette",
+  "id": "6e74442f-6325-5a5a-8ed6-89e7f68828cc",
+  "name": "EF rust",
+  "colors": [
+    "FFD68A",
+    "BE704A",
+    "574144",
+    "171F2D"
+  ],
+  "defaultName": "EF rust",
+  "defaultColors": [
+    "FFD68A",
+    "BE704A",
+    "574144",
+    "171F2D"
+  ]
+}

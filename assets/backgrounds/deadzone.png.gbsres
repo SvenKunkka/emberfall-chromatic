@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "ddddf0c0-2de3-5ecf-a581-181f9e5383bd",
+  "name": "deadzone",
+  "symbol": "bg_deadzone",
+  "tileColors": "003c+0115+0012+012+0012+012+0012+012+0012+012+0012+012+0012+012+0012+012+0012+012+0012+012+0012+012+0012+0115+0028+",
+  "filename": "deadzone.png",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "autoColor": false
+}

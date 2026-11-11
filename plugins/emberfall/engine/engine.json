@@ -1,0 +1,8 @@
+{
+  "version": "4.3.0-e1",
+  "sceneTypes": [{
+    "key": "emberfall",
+    "label": "Emberfall | Arena Survival",
+    "files": ["include/states/emberfall.h", "include/states/ef_art.h", "src/states/emberfall.c"]
+  }]
+}
